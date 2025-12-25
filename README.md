@@ -61,8 +61,5 @@ This structure enables fast slicing by **time**, **region**, and **category**.
 
 ---
 
-## Core Measures (DAX)
-
-These are the typical measures used to build the KPI cards and visuals:
 
 
