@@ -1,0 +1,101 @@
+ProductID,ProductName,Category,UnitPrice
+1,"Cabinet","Furniture",150
+2,"Recliner","Furniture",200
+3,"Tea","Food",2.5
+4,"Coffee","Food",3.5
+5,"Chips","Food",1.5
+6,"Keyboard","Electronics",25
+7,"Highlighter","Stationery",1.2
+8,"Calculator","Stationery",15
+9,"Bed","Furniture",350
+10,"Crayons","Stationery",2
+11,"Milk","Food",2
+12,"Paint","Stationery",5
+13,"Sweater","Clothing",30
+14,"Marker","Stationery",1.5
+15,"Folder","Stationery",1.8
+16,"Cupboard","Furniture",180
+17,"Pencil","Stationery",0.8
+18,"Butter","Food",4
+19,"Dressing Table","Furniture",220
+20,"Mouse","Electronics",20
+21,"Tape","Stationery",1
+22,"TV Stand","Furniture",450
+23,"Cereal Bar","Food",1.5
+24,"Stool","Furniture",75
+25,"Juice","Food",3
+26,"Socks","Clothing",5
+27,"External Hard Drive","Electronics",120
+28,"Laptop","Electronics",700
+29,"Pen","Stationery",0.5
+30,"Honey","Food",4
+31,"Yogurt","Food",2.5
+32,"Cereal","Food",3
+33,"Chocolate","Food",2.5
+34,"Router","Electronics",80
+35,"Belt","Clothing",10
+36,"Table","Furniture",150
+37,"Printer","Electronics",200
+38,"Bag","Clothing",25
+39,"Sofa","Furniture",300
+40,"Soup","Food",3.5
+41,"Scissors","Stationery",1.5
+42,"Shoes","Clothing",30
+43,"Dress","Clothing",40
+44,"Binder","Stationery",5
+45,"Notebook","Stationery",6
+46,"Microphone","Electronics",150
+47,"Power Bank","Electronics",50
+48,"Drone","Electronics",300
+49,"Shorts","Clothing",20
+50,"Jam","Food",3
+51,"Headphones","Electronics",60
+52,"Coat","Clothing",45
+53,"Smartwatch","Electronics",200
+54,"Speaker","Electronics",80
+55,"Desk","Furniture",180
+56,"Tablet","Electronics",300
+57,"Wardrobe","Furniture",400
+58,"Jeans","Clothing",35
+59,"Glue","Stationery",2
+60,"Ottoman","Furniture",90
+61,"Gloves","Clothing",15
+62,"Scarf","Clothing",10
+63,"Camera","Electronics",150
+64,"Projector","Electronics",250
+65,"Hat","Clothing",20
+66,"USB Drive","Electronics",25
+67,"Pasta","Food",5
+68,"Ruler","Stationery",1.5
+69,"Eraser","Stationery",1
+70,"Nightstand","Furniture",110
+71,"Skirt","Clothing",30
+72,"Sketchbook","Stationery",10
+73,"Notebook Set","Stationery",25
+74,"Shirt","Clothing",30
+75,"Sandals","Clothing",15
+76,"Bread","Food",2
+77,"Charger","Electronics",25
+78,"Sauce","Food",4
+79,"Webcam","Electronics",60
+80,"Compass","Stationery",1.5
+81,"Armchair","Furniture",120
+82,"T-Shirt","Clothing",20
+83,"Desk Lamp","Furniture",25
+84,"Chair","Furniture",80
+85,"Cheese","Food",4.5
+86,"Popcorn","Food",3
+87,"Ice Cream","Food",5
+88,"Dresser","Furniture",200
+89,"Paper","Stationery",1.5
+90,"Bookshelf","Furniture",150
+91,"Hoodie","Clothing",35
+92,"Cap","Clothing",10
+93,"Monitor","Electronics",200
+94,"Smartphone","Electronics",600
+95,"Bench","Furniture",140
+96,"Side Table","Furniture",60
+97,"Cookie","Food",2.5
+98,"Boots","Clothing",40
+99,"Jacket","Clothing",45
+100,"Stapler","Stationery",3
